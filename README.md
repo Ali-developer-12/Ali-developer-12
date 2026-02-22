@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=Ali-developer-12&label=Visitors&color=6f42c1&style=flat" />
 
   <p>
-    <a href="https://ali-developer-12.github.io/">
+    <a href="https://ali-developer-12.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Explore-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/in/alideveloper12/">
       <img src="https://img.shields.io/badge/LinkedIn-Network-20c997?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:yourmail@gmail.com">
+    <a href="mailto:aliraza.dev.crusader@gmail.com">
       <img src="https://img.shields.io/badge/Get%20in%20Touch-Mail-ff922b?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
