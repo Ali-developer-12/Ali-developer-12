@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello 👋 I'm <a href="https://ali-developer-12.github.io/" target="_blank">Ali Raza</a></h1>
   
-  <h3>Frontend Web Developer | CIT Student | MERN Stack Learner</h3>
+  <h3>MERN Stack Developer | CIT Student | Full Stack Learner</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Ali-developer-12&label=Visitors&color=6f42c1&style=flat" />
 
@@ -17,7 +17,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&width=520&height=50&color=20C997&lines=Developing+Modern+Web+Interfaces;Building+Responsive+UI+Designs;Learning+Full+Stack+Technologies;Creating+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&width=520&height=50&color=20C997&lines=Developing+Modern+Web+Interfaces;Building+Full+Stack+Applications;Working+with+MERN+Stack;Creating+Real+World+Projects" />
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ## 👨‍💻 About Me
 
-I am currently studying Computer Information Technology and actively working as a Frontend Web Developer. I specialize in building modern, responsive, and user-friendly web interfaces using core web technologies such as HTML, CSS, JavaScript, and Bootstrap.
+I am currently studying Computer Information Technology and working as a MERN Stack Developer. I build full stack web applications using MongoDB, Express.js, React, and Node.js, along with strong fundamentals in HTML, CSS, and JavaScript.
 
-I enjoy converting creative concepts into functional digital products that provide a smooth user experience across all devices. Along with frontend development, I also build console-based applications using Object-Oriented Programming in C++ to strengthen my logical thinking and development skills.
+I enjoy developing scalable and user-friendly applications, from designing responsive frontend interfaces to building efficient backend APIs and managing databases. I focus on writing clean, maintainable code and continuously improving my problem-solving skills.
 
 - ☕ Coding with focus & consistency  
-- 🔭 Currently working on JavaScript based projects  
-- 🌱 Learning MERN Stack Development  
+- 🔭 Currently working on MERN stack projects  
+- 🌱 Improving backend & database skills  
 - 🤝 Available for internship opportunities  
 
 <br/>
@@ -42,7 +42,7 @@ I enjoy converting creative concepts into functional digital products that provi
 
 | **Frontend** | **Backend & Database** | **Tools** |
 |:---:|:---:|:---:|
-| ![HTML](https://img.shields.io/badge/HTML5-e8590c?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS3-1c7ed6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-f59f00?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-6741d9?style=for-the-badge&logo=bootstrap&logoColor=white) | ![C++](https://img.shields.io/badge/C++-1971c2?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-0b7285?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-2f9e44?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-e03131?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-4263eb?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br> ![Figma](https://img.shields.io/badge/Figma-f03e3e?style=for-the-badge&logo=figma&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/HTML5-e8590c?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS3-1c7ed6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-f59f00?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Bootstrap](https://img.shields.io/badge/Bootstrap-6741d9?style=for-the-badge&logo=bootstrap&logoColor=white) <br> ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-2f9e44?style=for-the-badge&logo=nodedotjs&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-2b8a3e?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-0b7285?style=for-the-badge&logo=mysql&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-1971c2?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/Git-e03131?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-4263eb?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br> ![Figma](https://img.shields.io/badge/Figma-f03e3e?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
